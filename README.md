@@ -1,6 +1,6 @@
 # TWP - Thug War Party
 
-![alt text](https://github.com/ohenley/readme-template/blob/master/whatever.png)
+![alt text](https://github.com/ohenley/readme-template/blob/master/thug_war.png)
 
 ::: note 1  
 ::: note 2
@@ -17,7 +17,7 @@
 ## Building
 
 - $ git clone https://github.com/ohenley/twp.git
-- $ gprbuild twpm.gpr -Xplatform=win32
+- $ gprbuild twp.gpr -Xplatform=win32
 
 ## Limitations
 
