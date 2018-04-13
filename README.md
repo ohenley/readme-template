@@ -13,7 +13,7 @@ The thug community chat application
 
 ## Dependencies
 
-- ChatMania : https://github.com/ohenley/ChatMania
+- Chat-Mania : https://github.com/ohenley/chat-mania
 
 ## Building
 
