@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/ohenley/readme-template/blob/master/whatever.png)
 
-::: note 1 
+::: note 1  
 ::: note 2
 
 ## Prerequisites
