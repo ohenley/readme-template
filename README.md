@@ -1,4 +1,5 @@
 # TWP - Thug War Party
+The thug community chat application
 
 ![alt text](https://github.com/ohenley/readme-template/blob/master/thug_war.png)
 
