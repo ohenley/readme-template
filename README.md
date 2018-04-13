@@ -12,7 +12,7 @@
 
 ## Dependencies
 
-- OpenGLAda : https://github.com/flyx/OpenGLAda
+- ChatMania : https://github.com/ohenley/ChatMania
 
 ## Building
 
@@ -21,7 +21,7 @@
 
 ## Limitations
 
-Until Aglw supports other platforms, the demos only works on win32
+Only 3 consecutive messages are broadcast before being banned for the day.
 
 ## Usage
 
@@ -32,4 +32,4 @@ Launch twp.exe and chat with your thug community.
 Linux support: WIP
 
 ## Acknowledgments
-Useage of Win95/NT console support (nt_console.ads/adb) provided by Jerry van Dijk to format output
+Useage of Win95/NT console support (win32_cmd.ads/adb) provided by the King of Thugs. 
