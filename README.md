@@ -10,6 +10,10 @@
 - Win32 platform
 - Gnat compiler
 
+## Dependencies
+
+- OpenGLAda : https://github.com/flyx/OpenGLAda
+
 ## Building
 
 - $ git clone https://github.com/ohenley/twp.git
@@ -22,6 +26,10 @@ Until Aglw supports other platforms, the demos only works on win32
 ## Usage
 
 Launch twp.exe and chat with your thug community.
+
+## Status
+
+Linux support: WIP
 
 ## Acknowledgments
 Useage of Win95/NT console support (nt_console.ads/adb) provided by Jerry van Dijk to format output
