@@ -3,8 +3,8 @@ The thug community chat application
 
 ![alt text](https://github.com/ohenley/readme-template/blob/master/thug_war.png)
 
-::: note 1  
-::: note 2
+::: your street creds can now be voted up/down by peers
+::: every 'he' occurences are replaced by 'thug'.
 
 ## Prerequisites
 
