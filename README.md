@@ -1,6 +1,6 @@
 # TWP - Thug War Party
 
-![alt text](https://github.com/ohenley/readme-template/blob/master/thug_war.png)
+<center>![alt text](https://github.com/ohenley/readme-template/blob/master/thug_war.png)</center>
 
 ::: note 1  
 ::: note 2
