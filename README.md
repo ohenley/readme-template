@@ -1,7 +1,7 @@
 # TWP - Thug War Party
 The thug community chat application
 
-<p align="center">
+<span>
 <table>
   <tr>
     <td><a href="https://www.youtube.com/embed/yUqJkAZofZs">
@@ -18,7 +18,7 @@ The thug community chat application
 </a></td>
   </tr>
 </table>
-</p>
+</span>
 
 
 
