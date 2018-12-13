@@ -27,13 +27,13 @@ The thug community chat application
 <div align="center" style="width:100%">
 
 
-<a href="https://www.youtube.com/embed/yUqJkAZofZs">
+<a href="https://www.youtube.com/embed/yUqJkAZofZs">Community
 	<img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
 </a>
   
 <a href="https://www.youtube.com/embed/3e-BGblAMC4">
 	<img border="0" src="https://img.youtube.com/vi/3e-BGblAMC4/2.jpg" style="max-width:100%;">	
-</a>
+Community</a>
   
 <a href="https://www.youtube.com/embed/0yXwnk8Cr0c">
 	<img border="0" src="https://img.youtube.com/vi/0yXwnk8Cr0c/3.jpg" style="max-width:100%;">
