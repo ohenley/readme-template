@@ -2,6 +2,8 @@
 The thug community chat application
 
 <div align="center" style="width:100%">
+	
+	| <img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">  | <img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;"> | <img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;"> |
 
 <a href="https://www.youtube.com/embed/yUqJkAZofZs">
 	<img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
