@@ -10,12 +10,12 @@ The thug community chat application
 	    <img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
 	    <div align="center">Community</div>
 	</a>
-  |
+  
 	<a href="https://www.youtube.com/embed/3e-BGblAMC4">
 	<img border="0" src="https://img.youtube.com/vi/3e-BGblAMC4/2.jpg" style="max-width:100%;">	
 	<div align="center">Adacore</div>
 	</a>
-  |
+  
 	<a href="https://www.youtube.com/embed/0yXwnk8Cr0c">
 	<img border="0" src="https://img.youtube.com/vi/0yXwnk8Cr0c/3.jpg" style="max-width:100%;">
 	<div align="center">MIT</div>
