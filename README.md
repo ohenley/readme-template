@@ -3,19 +3,19 @@ The thug community chat application
 
 <div align="center">
 <span>
-a href="https://www.youtube.com/embed/yUqJkAZofZs">
+<a href="https://www.youtube.com/embed/yUqJkAZofZs">
 <img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
 <div align="center" style="width:120px">Community</div>
 </a>
 </span>
 <span>
-a href="https://www.youtube.com/embed/yUqJkAZofZs">
+<a href="https://www.youtube.com/embed/yUqJkAZofZs">
 <img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
 <div align="center" style="width:120px">Community</div>
 </a>
 </span>
 <span>
-a href="https://www.youtube.com/embed/yUqJkAZofZs">
+<a href="https://www.youtube.com/embed/yUqJkAZofZs">
 <img border="0" src="https://img.youtube.com/vi/yUqJkAZofZs/1.jpg" style="max-width:100%;">
 <div align="center" style="width:120px">Community</div>
 </a>
