@@ -26,6 +26,7 @@ The thug community chat application
 
 </details>
 
+## Presentation
 
 <div align="center">
 
