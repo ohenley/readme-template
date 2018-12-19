@@ -28,15 +28,15 @@ The thug community chat application
 
 ## Presentation
 <div align="center">
-> Ada is driving our space ships, our military and our airplanes. 
-> Ada is a direct competitor to C++ in terms of performance and depth.
-> Ada is a direct competitor to Python for its expresiveness.
-> Ada is arguably one of the most powerful language of all time.
+> Ada is driving our space ships, our military and our airplanes.    
+> Ada is a direct competitor to C++ in terms of performance and depth.   
+> Ada is a direct competitor to Python for its expresiveness.   
+> Ada is arguably one of the most powerful language of all time.   
 
-> Ada can drive your next project.
-> Ada welcomes everyone. 
+> Ada can drive your next project.   
+> Ada welcomes everyone.    
 
-> Long live Ada. 
+> Long live Ada.    
 </div>
 
 <div align="center">
