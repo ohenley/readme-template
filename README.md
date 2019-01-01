@@ -1,6 +1,9 @@
 # TWP - Thug War Party
 The thug community chat application
 
+> &cup sure thing
+> anyway
+
 ## Table of Contents
 <details>
 <summary>Click to expand</summary>
