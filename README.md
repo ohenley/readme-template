@@ -43,8 +43,8 @@ The thug community chat application
    
 </div>
 
-::: your street creds can now be voted up/down by peers  
-::: every 'he' occurences are replaced by 'thug'
+> your street creds can now be voted up/down by peers  
+> every 'he' occurences are replaced by 'thug'
 
 <!---![alt text](https://github.com/ohenley/readme-template/blob/master/thug_war.png)--->
 
