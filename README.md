@@ -5,15 +5,15 @@ The thug community chat application
 <details>
 <summary>Click to expand</summary>
 
-1. [Presentation](#Presentation)   
-2. [Prerequisites](#Prerequisites)  
-3. [Dependencies](#Dependencies)
-4. [Building](#Building)
+1. [Presentation](#Presentation)
+2. [Status](#Status)
+3. [Prerequisites](#Prerequisites)  
+4. [Dependencies](#Dependencies)
+5. [Building](#Building)
    1. [Windows](#Windows)
    2. [Other OSes](#Other-OSes)
-5. [Limitations](#Limitations)
-6. [Usage](#Usage)
-7. [Status](#Status)
+6. [Limitations](#Limitations)
+7. [Usage](#Usage)
 8. [Acknowledgments](#Acknowledgments)
 
 </details>
@@ -40,35 +40,28 @@ The thug community chat application
 
 <!---![alt text](https://github.com/ohenley/readme-template/blob/master/thug_war.png)--->
 
-## Prerequisites
+## Status
+Linux support: WIP
 
+## Prerequisites
 - Win32 platform
 - Gnat compiler
 
 ## Dependencies
-
 - Chat-Mania : https://github.com/ohenley/chat-mania
 
 ## Building
-
 #### Windows
 - $ git clone https://github.com/ohenley/twp.git
 - $ gprbuild twp.gpr -Xplatform=win32
-
 #### Other OSes
 - not supported yet
 
 ## Limitations
-
 Only 3 consecutive messages are broadcast before being banned for the day.
 
 ## Usage
-
 Launch twp.exe and chat with your thug community.
-
-## Status
-
-Linux support: WIP
 
 ## Acknowledgments
 Useage of Win95/NT console support (win32_cmd.ads/adb) provided by the King of Thugs. 
