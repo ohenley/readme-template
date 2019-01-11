@@ -52,7 +52,7 @@ Linux support: WIP
 
 ## Building
 #### Windows
-- $ git clone https://github.com/ohenley/twp.git
+- $ git clone --recursive https://github.com/ohenley/twp.git
 - $ gprbuild twp.gpr -Xplatform=win32
 #### Other OSes
 - not supported yet
