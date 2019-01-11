@@ -5,24 +5,16 @@ The thug community chat application
 <details>
 <summary>Click to expand</summary>
 
-- [About](#about)
-- [Install](#install)
-- [Usage](#usage)
-  * [API](#api)
-  * [Configuration Options](#configuration-options)
-- [CLI Usage](#cli-usage)
-- [Transforms](#transforms)
-  * [CODE](#code)
-  * [REMOTE](#remote)
-  * [TOC](#toc)
-- [Running Async transforms](#running-async-transforms)
-- [🔌 Third Party Plugins](#%F0%9F%94%8C-third-party-plugins)
-- [Adding Custom Transforms](#adding-custom-transforms)
-- [Plugin Example](#plugin-example)
-- [Other usage examples](#other-usage-examples)
-- [Custom Transform Demo](#custom-transform-demo)
-- [Prior Art](#prior-art)
-- [License](#license)
+1. [Presentation](#Presentation)   
+2. [Prerequisites](#Prerequisites)  
+3. [Dependencies](#Dependencies)
+4. [Building](#Building)
+ 1. [Windows](#Windows)
+ 2. [Other OSes](#Other-OSes)
+5. [Limitations](#Limitations)
+6. [Usage](#Usage)
+7. [Status](#Status)
+8. [Acknowledgments](#Acknowledgments)
 
 </details>
 
@@ -59,8 +51,12 @@ The thug community chat application
 
 ## Building
 
+### Windows
 - $ git clone https://github.com/ohenley/twp.git
 - $ gprbuild twp.gpr -Xplatform=win32
+
+### Other OSes
+- not supported yet
 
 ## Limitations
 
