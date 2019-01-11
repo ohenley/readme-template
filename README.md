@@ -51,11 +51,11 @@ The thug community chat application
 
 ## Building
 
-### Windows
+#### Windows
 - $ git clone https://github.com/ohenley/twp.git
 - $ gprbuild twp.gpr -Xplatform=win32
 
-### Other OSes
+#### Other OSes
 - not supported yet
 
 ## Limitations
