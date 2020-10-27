@@ -5,20 +5,21 @@ The thug community chat application
 <details>
 <summary>Click to expand</summary>
 
-1. [Presentation](#Presentation)
+1. [About](#About)
 2. [Status](#Status)
 3. [Prerequisites](#Prerequisites)  
 4. [Dependencies](#Dependencies)
 5. [Building](#Building)
    1. [Windows](#Windows)
    2. [Other OSes](#Other-OSes)
-6. [Limitations](#Limitations)
-7. [Usage](#Usage)
-8. [Acknowledgments](#Acknowledgments)
+6. [Installation](#Installation)
+7. [Limitations](#Limitations)
+8. [Usage](#Usage)
+9. [Acknowledgments](#Acknowledgments)
 
 </details>
 
-## Presentation
+## About
 <div align="center">
 
 <a href="https://www.youtube.com/embed/yUqJkAZofZs">
@@ -52,10 +53,14 @@ Linux support: WIP
 
 ## Building
 #### Windows
-- $ git clone --recursive https://github.com/ohenley/twp.git
-- $ gprbuild twp.gpr -Xplatform=win32
+`$ git clone --recursive https://github.com/ohenley/twp.git`
+`$ gprbuild twp.gpr -Xplatform=win32`
+   
 #### Other OSes
 - not supported yet
+
+## Installation
+- $ whatever
 
 ## Limitations
 Only 3 consecutive messages are broadcast before being banned for the day.
