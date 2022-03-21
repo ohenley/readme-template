@@ -1,5 +1,5 @@
-# TWP - Thug War Party
-The thug community chat application
+# RT - Readme Template
+A geek community chat application
 
 ## Table of Contents
 <details>
@@ -37,7 +37,7 @@ The thug community chat application
 </div>
 
 > your street creds can now be voted up/down by peers.  
-> every 'he' occurences are replaced by 'thug'.
+> every 's/he/it' occurences are replaced by 'geek'.
 
 <!---![alt text](https://github.com/ohenley/readme-template/blob/master/thug_war.png)--->
 
@@ -66,7 +66,7 @@ Linux support: WIP
 Only 3 consecutive messages are broadcast before being banned for the day.
 
 ## Usage
-Launch twp.exe and chat with your thug community.
+Launch rp.exe and chat with your geek community.
 
 ## Acknowledgments
 Useage of Win95/NT console support (win32_cmd.ads/adb) provided by the King of Thugs. 
